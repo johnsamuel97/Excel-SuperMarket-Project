@@ -1,3 +1,5 @@
+**SUPERMARKET REVENUE ANALYSIS- EXCEL PROJECT**
+
 Data Preparation and Cleaning:
 In the realm of data analytics, the precision and consistency of data is paramount. Recognizing this, the raw dataset from the supermarket underwent a meticulous and comprehensive cleaning process to ensure its integrity:
 Date Standardization: Inconsistent date formats can lead to misinterpretations. To avoid this pitfall, all dates in the dataset were harmonized into a single, standardized format, paving the way for more accurate temporal analyses.
