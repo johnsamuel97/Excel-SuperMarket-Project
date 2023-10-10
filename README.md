@@ -21,3 +21,5 @@ Payment Preferences: In a digital age, it was intriguing to note that cash remai
 Sales Trends: A discernible pattern emerged with sales peaking mid-month, especially between the 15th and 19th. Such patterns can guide promotional strategies.
 Weekday Sales Analysis: Saturdays and Tuesdays stood out, registering the highest sales, highlighting consumer shopping preferences.
 Product Ratings: In terms of customer feedback, the Food and Beverages category excelled, receiving the most favorable ratings. Such feedback can inform product placement and promotion strategies.
+
+![Alt text](image.png)
